@@ -11,7 +11,6 @@ class SortServiceTest {
 
     private SortService sut = new SortService(new JavaSort<String>());
     
-
     @Test
     void Test() {
 
